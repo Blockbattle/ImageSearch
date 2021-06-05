@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ImageSearch</string>
+    <string name="search_hint">Поиск изображения</string>
+    <string name="search_title">Поиск</string>
+    <string name="api_key">cfd5daef8ccb4ba4824dc9825a5405d7b1e27ef8c3ec63ad762fb6b3f2340bfd</string>
+</resources>
